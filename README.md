@@ -1,2 +1,2 @@
-# DataStorage
-Contains data used in Qalcyo products or services.
+# Qalcyo Data Storage
+## Repository used to store data for Qalcyo products and services.
