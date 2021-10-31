@@ -1,0 +1,46 @@
+{
+    "information": [
+        "DISCLAIMER:",
+        "All of the words in the word blocker were taken from Wikipedia.",
+        "They may not all be accurate!",
+        "",
+        "If you'd like to contribute more words to the list,",
+        "join the Qalcyo Discord server to find out more."
+    ],
+    "words": [
+        {
+            "type": "cusses",
+            "words": [
+                "fuck", "shit", "cunt", "damn",
+                "crap", "bastard", "piss", "bitch",
+                "bollocks", "tit", "prick", "twat"
+            ]
+        },
+        {
+            "type": "NSFW (Not Safe For Work)",
+            "words": [
+                "pussy", "shag", "cock", "dick",
+                "fanny", "arse", "sex", "wank",
+                "ass", "anal", "vagina"
+            ]
+        },
+        {
+            "type": "offensive",
+            "words": [
+                "tranny", "faggot", "fag", "dyke",
+                "homo", "sodomite", "shemale", "transgenderism",
+                "carpet muncher", "rug muncher", "kiki", "kitty puncher",
+                "lezzie", "lesbo", "muff diver", "gaysian",
+                "pansy", "sissy", "queer", "hermie",
+                "cuntboy", "dickgirl", "futa", "transbian",
+                "cissy", "cishet", ""
+            ]
+        },
+        {
+            "type": "racist",
+            "words": [
+                "nigga", "nigger"
+            ]
+        }
+    ]
+}

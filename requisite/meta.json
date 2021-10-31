@@ -1,0 +1,4 @@
+{
+    "version": "2.0-beta5",
+    "socket": "ws://socket.deftu.xyz:8080/{}"
+}
