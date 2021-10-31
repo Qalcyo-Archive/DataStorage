@@ -11,35 +11,72 @@
         {
             "type": "cusses",
             "words": [
-                "fuck", "shit", "cunt", "damn",
-                "crap", "bastard", "piss", "bitch",
-                "bollocks", "tit", "prick", "twat"
+                "fuck",
+                "shit",
+                "cunt",
+                "damn",
+                "crap",
+                "bastard",
+                "piss",
+                "bitch",
+                "bollocks",
+                "tit",
+                "prick",
+                "twat"
             ]
         },
         {
             "type": "NSFW (Not Safe For Work)",
             "words": [
-                "pussy", "shag", "cock", "dick",
-                "fanny", "arse", "sex", "wank",
-                "ass", "anal", "vagina"
+                "pussy",
+                "shag",
+                "cock",
+                "dick",
+                "fanny",
+                "arse",
+                "sex",
+                "wank",
+                "ass",
+                "anal",
+                "vagina"
             ]
         },
         {
             "type": "offensive",
             "words": [
-                "tranny", "faggot", "fag", "dyke",
-                "homo", "sodomite", "shemale", "transgenderism",
-                "carpet muncher", "rug muncher", "kiki", "kitty puncher",
-                "lezzie", "lesbo", "muff diver", "gaysian",
-                "pansy", "sissy", "queer", "hermie",
-                "cuntboy", "dickgirl", "futa", "transbian",
-                "cissy", "cishet"
+                "tranny",
+                "faggot",
+                "fag",
+                "dyke",
+                "homo",
+                "sodomite",
+                "shemale",
+                "transgenderism",
+                "carpet muncher",
+                "rug muncher",
+                "kiki",
+                "kitty puncher",
+                "lezzie",
+                "lesbo",
+                "muff diver",
+                "gaysian",
+                "pansy",
+                "sissy",
+                "queer",
+                "hermie",
+                "cuntboy",
+                "dickgirl",
+                "futa",
+                "transbian",
+                "cissy",
+                "cishet"
             ]
         },
         {
             "type": "racist",
             "words": [
-                "nigga", "nigger"
+                "nigga",
+                "nigger"
             ]
         }
     ]
