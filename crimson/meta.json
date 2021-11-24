@@ -1,0 +1,4 @@
+{
+    "version": "1.0",
+    "socket": "ws://api.qalcyo.xyz/requisite/socket?version={}"
+}
