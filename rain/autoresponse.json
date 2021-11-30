@@ -41,5 +41,28 @@
             ]
         ],
         "response": "The old launcher can be installed from here:\n<https://launcher.mojang.com/download/MinecraftInstaller.msi>"
+    },
+    {
+        "triggers": [
+            [
+                "not"
+            ],
+            [
+                "open"
+            ]
+        ],
+        "response": "Please enable the `Open output log when Minecraft: Java Edition starts` option inside your Minecraft launcher settings and paste the contents here."
+    },
+
+    {
+        "triggers": [
+            [
+                "banana"
+            ],
+            [
+                "sticks"
+            ]
+        ],
+        "response": "Banana sticks.\nhttps://cdn.discordapp.com/attachments/765441826068627467/915273143642365972/unknown.png"
     }
 ]
