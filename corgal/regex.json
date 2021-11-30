@@ -75,5 +75,5 @@
             "id": "privateMessageWhiteChat",
             "regex": "^(?<type>\u00a7dTo|\u00a7dFrom) (?<prefix>.+): \u00a7r(?<message>\u00a77.*)(?:\u00a7r)?$"
         }
-        ]
+    ]
 }
